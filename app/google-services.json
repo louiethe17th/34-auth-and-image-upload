@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174368012037",
+    "firebase_url": "https://auth-and-image-upload.firebaseio.com",
+    "project_id": "auth-and-image-upload",
+    "storage_bucket": "auth-and-image-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174368012037:android:e977298a44aa8dd8",
+        "android_client_info": {
+          "package_name": "com.example.tyler.a34_auth_and_image_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174368012037-korq290229pio2pj70kmla92ultmkump.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tyler.a34_auth_and_image_upload",
+            "certificate_hash": "d3cf9a6adc5c066adbd0151a12bcb949ec6398b9"
+          }
+        },
+        {
+          "client_id": "174368012037-56b4d75bu91om2tguiaqt1fouge3am6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmpUUOVcuzxanaNcVTH7FJCVaUnI-vZ7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174368012037-56b4d75bu91om2tguiaqt1fouge3am6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
